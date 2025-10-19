@@ -1,0 +1,6 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "C:\\Users\\tawan\\esp\\v5.5.1\\esp-idf",
+  "idf.toolsPathWin": "C:\\Users\\tawan\\.espressif",
+  "idf.pythonInstallPath": "/opt/esp/python_env/idf5.4_py3.12_env/bin/python"
+}
